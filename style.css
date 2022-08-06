@@ -1,0 +1,31 @@
+body{
+    background: #ffffff;
+	font-family: 'Poppins', helvetica;
+	font-weight: 800;
+	line-height: 20px;
+	letter-spacing: 0.02em;
+	overflow-x: hidden;
+	margin: 0 auto;
+	padding: 0;
+	box-sizing: border-box;
+}
+.header-container{
+    text-align: center;
+    background-color: #FFFAFA;
+    padding: 2rem;
+}
+.btn_widgth{
+    width: 20%;
+}
+
+.bg_color{
+    background-color: #FFFAFA;
+    padding: 5rem 2rem;
+    margin: 2rem;
+}
+.programe_box{
+    background-color: #FFFFFF;
+    padding:  3rem 1rem;
+}
+
+
